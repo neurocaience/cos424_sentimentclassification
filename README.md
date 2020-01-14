@@ -1,4 +1,4 @@
-# cos424_sentimentclassification
+# Cos424 Sentiment Classification
 Classifying positive and negative sentiments using supervised learning
 
 Princeton University COS424: Fundamentals of Machine Learning
