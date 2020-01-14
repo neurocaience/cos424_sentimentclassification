@@ -1,9 +1,8 @@
 # Cos424 Sentiment Classification
 Classifying positive and negative sentiments using supervised learning
 
-Princeton University COS424: Fundamentals of Machine Learning
-Professor Barbara Englehardt
-Spring 2019
+Princeton University COS424: Fundamentals of Machine Learning  
+Professor Barbara Englehardt, Spring 2019  
 Link to class: https://www.cs.princeton.edu/~bee/courses/cos424.html
 
 =================
